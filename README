@@ -1,0 +1,10 @@
+Author: Xiaohui Liu (whulxh@gmail.com)
+Created: 12/30/2011
+
+Description:
+-SignalMap: implementation of signal map
+-TestSMC:	an example demonstrating how to use SignalMap
+
+Known bugs/limitations:
+1) Transmission power level must be ligitimate, i.e., one of the levels specified by CC2420 datasheet.
+2) May not work under extremely heavy traffic because concurrent tx interfere with RSSI sampling
