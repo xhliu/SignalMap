@@ -1,0 +1,701 @@
+DEBUG (0): packet 1 sent
+DEBUG (1): packet 1 sent
+DEBUG (0): packet 1 received, gain <255, 255>
+DEBUG (1): packet 1 received, gain <255, 255>
+DEBUG (0): packet 2 sent
+DEBUG (1): packet 2 sent
+DEBUG (0): packet 2 received, gain <6, 255>
+DEBUG (1): packet 2 received, gain <6, 255>
+DEBUG (0): packet 3 sent
+DEBUG (1): packet 3 sent
+DEBUG (0): packet 3 received, gain <6, 6>
+DEBUG (1): packet 3 received, gain <6, 6>
+DEBUG (0): packet 4 sent
+DEBUG (1): packet 4 sent
+DEBUG (1): packet 4 received, gain <6, 6>
+DEBUG (0): packet 4 received, gain <6, 6>
+DEBUG (0): packet 5 sent
+DEBUG (1): packet 5 sent
+DEBUG (1): packet 5 received, gain <6, 6>
+DEBUG (0): packet 5 received, gain <6, 6>
+DEBUG (0): packet 6 sent
+DEBUG (1): packet 6 sent
+DEBUG (0): packet 6 received, gain <6, 6>
+DEBUG (1): packet 6 received, gain <6, 6>
+DEBUG (0): packet 7 sent
+DEBUG (1): packet 7 sent
+DEBUG (0): packet 7 received, gain <6, 6>
+DEBUG (1): packet 7 received, gain <6, 6>
+DEBUG (0): packet 8 sent
+DEBUG (1): packet 8 sent
+DEBUG (1): packet 8 received, gain <6, 6>
+DEBUG (0): packet 8 received, gain <6, 6>
+DEBUG (0): packet 9 sent
+DEBUG (1): packet 9 sent
+DEBUG (0): packet 9 received, gain <6, 6>
+DEBUG (1): packet 9 received, gain <6, 6>
+DEBUG (0): packet 10 sent
+DEBUG (1): packet 10 sent
+DEBUG (0): packet 10 received, gain <6, 6>
+DEBUG (1): packet 10 received, gain <6, 6>
+DEBUG (0): packet 11 sent
+DEBUG (1): packet 11 sent
+DEBUG (1): packet 11 received, gain <6, 6>
+DEBUG (0): packet 11 received, gain <6, 6>
+DEBUG (0): packet 12 sent
+DEBUG (1): packet 12 sent
+DEBUG (1): packet 12 received, gain <6, 6>
+DEBUG (0): packet 12 received, gain <6, 6>
+DEBUG (0): packet 13 sent
+DEBUG (1): packet 13 sent
+DEBUG (1): packet 13 received, gain <6, 6>
+DEBUG (0): packet 13 received, gain <6, 6>
+DEBUG (0): packet 14 sent
+DEBUG (1): packet 14 sent
+DEBUG (1): packet 14 received, gain <6, 6>
+DEBUG (0): packet 14 received, gain <6, 6>
+DEBUG (0): packet 15 sent
+DEBUG (1): packet 15 sent
+DEBUG (1): packet 15 received, gain <6, 6>
+DEBUG (0): packet 15 received, gain <6, 6>
+DEBUG (0): packet 16 sent
+DEBUG (1): packet 16 sent
+DEBUG (1): packet 16 received, gain <6, 6>
+DEBUG (0): packet 16 received, gain <6, 6>
+DEBUG (0): packet 17 sent
+DEBUG (1): packet 17 sent
+DEBUG (0): packet 17 received, gain <6, 6>
+DEBUG (1): packet 17 received, gain <6, 6>
+DEBUG (0): packet 18 sent
+DEBUG (1): packet 18 sent
+DEBUG (1): packet 18 received, gain <6, 6>
+DEBUG (0): packet 18 received, gain <6, 6>
+DEBUG (0): packet 19 sent
+DEBUG (1): packet 19 sent
+DEBUG (1): packet 19 received, gain <6, 6>
+DEBUG (0): packet 19 received, gain <6, 6>
+DEBUG (0): packet 20 sent
+DEBUG (1): packet 20 sent
+DEBUG (1): packet 20 received, gain <6, 6>
+DEBUG (0): packet 20 received, gain <6, 6>
+DEBUG (0): packet 21 sent
+DEBUG (1): packet 21 sent
+DEBUG (0): packet 22 sent
+DEBUG (1): packet 22 sent
+DEBUG (0): packet 22 received, gain <6, 6>
+DEBUG (1): packet 22 received, gain <6, 6>
+DEBUG (0): packet 23 sent
+DEBUG (1): packet 23 sent
+DEBUG (0): packet 24 sent
+DEBUG (1): packet 24 sent
+DEBUG (1): packet 24 received, gain <6, 6>
+DEBUG (0): packet 24 received, gain <6, 6>
+DEBUG (0): packet 25 sent
+DEBUG (1): packet 25 sent
+DEBUG (0): packet 25 received, gain <6, 6>
+DEBUG (1): packet 25 received, gain <6, 6>
+DEBUG (0): packet 26 sent
+DEBUG (1): packet 26 sent
+DEBUG (0): packet 26 received, gain <6, 6>
+DEBUG (1): packet 26 received, gain <6, 6>
+DEBUG (0): packet 27 sent
+DEBUG (1): packet 27 sent
+DEBUG (0): packet 28 sent
+DEBUG (1): packet 28 sent
+DEBUG (1): packet 28 received, gain <6, 6>
+DEBUG (0): packet 28 received, gain <6, 6>
+DEBUG (0): packet 29 sent
+DEBUG (1): packet 29 sent
+DEBUG (0): packet 29 received, gain <6, 6>
+DEBUG (1): packet 29 received, gain <6, 6>
+DEBUG (0): packet 30 sent
+DEBUG (1): packet 30 sent
+DEBUG (0): packet 31 sent
+DEBUG (1): packet 31 sent
+DEBUG (0): packet 31 received, gain <6, 6>
+DEBUG (1): packet 31 received, gain <6, 6>
+DEBUG (0): packet 32 sent
+DEBUG (1): packet 32 sent
+DEBUG (1): packet 32 received, gain <6, 6>
+DEBUG (0): packet 32 received, gain <6, 6>
+DEBUG (0): packet 33 sent
+DEBUG (1): packet 33 sent
+DEBUG (1): packet 33 received, gain <6, 6>
+DEBUG (0): packet 33 received, gain <6, 6>
+DEBUG (0): packet 34 sent
+DEBUG (1): packet 34 sent
+DEBUG (0): packet 35 sent
+DEBUG (1): packet 35 sent
+DEBUG (0): packet 35 received, gain <6, 6>
+DEBUG (1): packet 35 received, gain <6, 6>
+DEBUG (0): packet 36 sent
+DEBUG (1): packet 36 sent
+DEBUG (1): packet 36 received, gain <6, 6>
+DEBUG (0): packet 36 received, gain <6, 6>
+DEBUG (0): packet 37 sent
+DEBUG (1): packet 37 sent
+DEBUG (1): packet 37 received, gain <6, 6>
+DEBUG (0): packet 37 received, gain <6, 6>
+DEBUG (0): packet 38 sent
+DEBUG (1): packet 38 sent
+DEBUG (0): packet 39 sent
+DEBUG (1): packet 39 sent
+DEBUG (0): packet 39 received, gain <6, 6>
+DEBUG (1): packet 39 received, gain <6, 6>
+DEBUG (0): packet 40 sent
+DEBUG (1): packet 40 sent
+DEBUG (1): packet 40 received, gain <6, 6>
+DEBUG (0): packet 40 received, gain <6, 6>
+DEBUG (0): packet 41 sent
+DEBUG (1): packet 41 sent
+DEBUG (0): packet 42 sent
+DEBUG (1): packet 42 sent
+DEBUG (1): packet 42 received, gain <6, 6>
+DEBUG (0): packet 42 received, gain <6, 6>
+DEBUG (0): packet 43 sent
+DEBUG (1): packet 43 sent
+DEBUG (0): packet 43 received, gain <6, 6>
+DEBUG (1): packet 43 received, gain <6, 6>
+DEBUG (0): packet 44 sent
+DEBUG (1): packet 44 sent
+DEBUG (1): packet 44 received, gain <6, 6>
+DEBUG (0): packet 44 received, gain <6, 6>
+DEBUG (0): packet 45 sent
+DEBUG (1): packet 45 sent
+DEBUG (1): packet 45 received, gain <6, 6>
+DEBUG (0): packet 45 received, gain <6, 6>
+DEBUG (0): packet 46 sent
+DEBUG (1): packet 46 sent
+DEBUG (1): packet 46 received, gain <6, 6>
+DEBUG (0): packet 46 received, gain <6, 6>
+DEBUG (0): packet 47 sent
+DEBUG (1): packet 47 sent
+DEBUG (1): packet 47 received, gain <6, 6>
+DEBUG (0): packet 47 received, gain <6, 6>
+DEBUG (0): packet 48 sent
+DEBUG (1): packet 48 sent
+DEBUG (0): packet 48 received, gain <6, 6>
+DEBUG (0): packet 49 sent
+DEBUG (1): packet 49 sent
+DEBUG (0): packet 49 received, gain <6, 6>
+DEBUG (1): packet 49 received, gain <6, 6>
+DEBUG (0): packet 50 sent
+DEBUG (1): packet 50 sent
+DEBUG (0): packet 51 sent
+DEBUG (1): packet 51 sent
+DEBUG (0): packet 51 received, gain <6, 6>
+DEBUG (1): packet 51 received, gain <6, 6>
+DEBUG (0): packet 52 sent
+DEBUG (1): packet 52 sent
+DEBUG (1): packet 52 received, gain <6, 6>
+DEBUG (0): packet 52 received, gain <6, 6>
+DEBUG (0): packet 53 sent
+DEBUG (1): packet 53 sent
+DEBUG (1): packet 53 received, gain <6, 6>
+DEBUG (0): packet 53 received, gain <6, 6>
+DEBUG (0): packet 54 sent
+DEBUG (1): packet 54 sent
+DEBUG (1): packet 54 received, gain <6, 6>
+DEBUG (0): packet 54 received, gain <6, 6>
+DEBUG (0): packet 55 sent
+DEBUG (1): packet 55 sent
+DEBUG (0): packet 55 received, gain <6, 6>
+DEBUG (1): packet 55 received, gain <6, 6>
+DEBUG (0): packet 56 sent
+DEBUG (1): packet 56 sent
+DEBUG (0): packet 56 received, gain <6, 6>
+DEBUG (1): packet 56 received, gain <6, 6>
+DEBUG (0): packet 57 sent
+DEBUG (1): packet 57 sent
+DEBUG (1): packet 57 received, gain <6, 6>
+DEBUG (0): packet 57 received, gain <6, 6>
+DEBUG (0): packet 58 sent
+DEBUG (1): packet 58 sent
+DEBUG (0): packet 58 received, gain <6, 6>
+DEBUG (1): packet 58 received, gain <6, 6>
+DEBUG (0): packet 59 sent
+DEBUG (1): packet 59 sent
+DEBUG (1): packet 59 received, gain <6, 6>
+DEBUG (0): packet 59 received, gain <6, 6>
+DEBUG (0): packet 60 sent
+DEBUG (1): packet 60 sent
+DEBUG (1): packet 60 received, gain <6, 6>
+DEBUG (0): packet 60 received, gain <6, 6>
+DEBUG (0): packet 61 sent
+DEBUG (1): packet 61 sent
+DEBUG (1): packet 61 received, gain <6, 6>
+DEBUG (0): packet 61 received, gain <6, 6>
+DEBUG (0): packet 62 sent
+DEBUG (1): packet 62 sent
+DEBUG (0): packet 63 sent
+DEBUG (1): packet 63 sent
+DEBUG (0): packet 64 sent
+DEBUG (1): packet 64 sent
+DEBUG (1): packet 64 received, gain <6, 6>
+DEBUG (0): packet 64 received, gain <6, 6>
+DEBUG (0): packet 65 sent
+DEBUG (1): packet 65 sent
+DEBUG (0): packet 65 received, gain <6, 6>
+DEBUG (1): packet 65 received, gain <6, 6>
+DEBUG (0): packet 66 sent
+DEBUG (1): packet 66 sent
+DEBUG (1): packet 66 received, gain <6, 6>
+DEBUG (0): packet 66 received, gain <6, 6>
+DEBUG (0): packet 67 sent
+DEBUG (1): packet 67 sent
+DEBUG (0): packet 67 received, gain <6, 6>
+DEBUG (1): packet 67 received, gain <6, 6>
+DEBUG (0): packet 68 sent
+DEBUG (1): packet 68 sent
+DEBUG (0): packet 69 sent
+DEBUG (1): packet 69 sent
+DEBUG (0): packet 69 received, gain <6, 6>
+DEBUG (1): packet 69 received, gain <6, 6>
+DEBUG (0): packet 70 sent
+DEBUG (1): packet 70 sent
+DEBUG (1): packet 70 received, gain <6, 6>
+DEBUG (0): packet 70 received, gain <6, 6>
+DEBUG (0): packet 71 sent
+DEBUG (1): packet 71 sent
+DEBUG (0): packet 71 received, gain <6, 6>
+DEBUG (1): packet 71 received, gain <6, 6>
+DEBUG (0): packet 72 sent
+DEBUG (1): packet 72 sent
+DEBUG (1): packet 72 received, gain <6, 6>
+DEBUG (0): packet 73 sent
+DEBUG (1): packet 73 sent
+DEBUG (1): packet 73 received, gain <6, 6>
+DEBUG (0): packet 73 received, gain <6, 6>
+DEBUG (0): packet 74 sent
+DEBUG (1): packet 74 sent
+DEBUG (1): packet 74 received, gain <6, 6>
+DEBUG (0): packet 74 received, gain <6, 6>
+DEBUG (0): packet 75 sent
+DEBUG (1): packet 75 sent
+DEBUG (0): packet 76 sent
+DEBUG (1): packet 76 sent
+DEBUG (0): packet 76 received, gain <6, 6>
+DEBUG (1): packet 76 received, gain <6, 6>
+DEBUG (0): packet 77 sent
+DEBUG (1): packet 77 sent
+DEBUG (1): packet 77 received, gain <6, 6>
+DEBUG (0): packet 77 received, gain <6, 6>
+DEBUG (0): packet 78 sent
+DEBUG (1): packet 78 sent
+DEBUG (0): packet 79 sent
+DEBUG (1): packet 79 sent
+DEBUG (1): packet 79 received, gain <6, 6>
+DEBUG (0): packet 79 received, gain <6, 6>
+DEBUG (0): packet 80 sent
+DEBUG (1): packet 80 sent
+DEBUG (1): packet 80 received, gain <6, 6>
+DEBUG (0): packet 80 received, gain <6, 6>
+DEBUG (0): packet 81 sent
+DEBUG (1): packet 81 sent
+DEBUG (1): packet 81 received, gain <6, 6>
+DEBUG (0): packet 81 received, gain <6, 6>
+DEBUG (0): packet 82 sent
+DEBUG (1): packet 82 sent
+DEBUG (1): packet 82 received, gain <6, 6>
+DEBUG (0): packet 83 sent
+DEBUG (1): packet 83 sent
+DEBUG (0): packet 84 sent
+DEBUG (1): packet 84 sent
+DEBUG (1): packet 84 received, gain <6, 6>
+DEBUG (0): packet 84 received, gain <6, 6>
+DEBUG (0): packet 85 sent
+DEBUG (1): packet 85 sent
+DEBUG (0): packet 85 received, gain <6, 6>
+DEBUG (1): packet 85 received, gain <6, 6>
+DEBUG (0): packet 86 sent
+DEBUG (1): packet 86 sent
+DEBUG (0): packet 86 received, gain <6, 6>
+DEBUG (1): packet 86 received, gain <6, 6>
+DEBUG (0): packet 87 sent
+DEBUG (1): packet 87 sent
+DEBUG (0): packet 87 received, gain <6, 6>
+DEBUG (1): packet 87 received, gain <6, 6>
+DEBUG (0): packet 88 sent
+DEBUG (1): packet 88 sent
+DEBUG (1): packet 88 received, gain <6, 6>
+DEBUG (0): packet 88 received, gain <6, 6>
+DEBUG (0): packet 89 sent
+DEBUG (1): packet 89 sent
+DEBUG (0): packet 89 received, gain <6, 6>
+DEBUG (1): packet 89 received, gain <6, 6>
+DEBUG (0): packet 90 sent
+DEBUG (1): packet 90 sent
+DEBUG (0): packet 90 received, gain <6, 6>
+DEBUG (1): packet 90 received, gain <6, 6>
+DEBUG (0): packet 91 sent
+DEBUG (1): packet 91 sent
+DEBUG (1): packet 91 received, gain <6, 6>
+DEBUG (0): packet 91 received, gain <6, 6>
+DEBUG (0): packet 92 sent
+DEBUG (1): packet 92 sent
+DEBUG (0): packet 92 received, gain <6, 6>
+DEBUG (1): packet 92 received, gain <6, 6>
+DEBUG (0): packet 93 sent
+DEBUG (1): packet 93 sent
+DEBUG (1): packet 93 received, gain <6, 6>
+DEBUG (0): packet 93 received, gain <6, 6>
+DEBUG (0): packet 94 sent
+DEBUG (1): packet 94 sent
+DEBUG (0): packet 94 received, gain <6, 6>
+DEBUG (1): packet 94 received, gain <6, 6>
+DEBUG (0): packet 95 sent
+DEBUG (1): packet 95 sent
+DEBUG (1): packet 95 received, gain <6, 6>
+DEBUG (0): packet 95 received, gain <6, 6>
+DEBUG (0): packet 96 sent
+DEBUG (1): packet 96 sent
+DEBUG (0): packet 96 received, gain <6, 6>
+DEBUG (1): packet 96 received, gain <6, 6>
+DEBUG (0): packet 97 sent
+DEBUG (1): packet 97 sent
+DEBUG (1): packet 97 received, gain <6, 6>
+DEBUG (0): packet 97 received, gain <6, 6>
+DEBUG (0): packet 98 sent
+DEBUG (1): packet 98 sent
+DEBUG (1): packet 98 received, gain <6, 6>
+DEBUG (0): packet 98 received, gain <6, 6>
+DEBUG (0): packet 99 sent
+DEBUG (1): packet 99 sent
+DEBUG (0): packet 99 received, gain <6, 6>
+DEBUG (1): packet 99 received, gain <6, 6>
+DEBUG (0): packet 100 sent
+DEBUG (1): packet 100 sent
+DEBUG (0): packet 101 sent
+DEBUG (1): packet 101 sent
+DEBUG (0): packet 101 received, gain <6, 6>
+DEBUG (1): packet 101 received, gain <6, 6>
+DEBUG (0): packet 102 sent
+DEBUG (1): packet 102 sent
+DEBUG (1): packet 102 received, gain <6, 6>
+DEBUG (0): packet 102 received, gain <6, 6>
+DEBUG (0): packet 103 sent
+DEBUG (1): packet 103 sent
+DEBUG (1): packet 103 received, gain <6, 6>
+DEBUG (0): packet 103 received, gain <6, 6>
+DEBUG (0): packet 104 sent
+DEBUG (1): packet 104 sent
+DEBUG (1): packet 104 received, gain <6, 6>
+DEBUG (0): packet 104 received, gain <6, 6>
+DEBUG (0): packet 105 sent
+DEBUG (1): packet 105 sent
+DEBUG (1): packet 105 received, gain <6, 6>
+DEBUG (0): packet 105 received, gain <6, 6>
+DEBUG (0): packet 106 sent
+DEBUG (1): packet 106 sent
+DEBUG (0): packet 106 received, gain <6, 6>
+DEBUG (1): packet 106 received, gain <6, 6>
+DEBUG (0): packet 107 sent
+DEBUG (1): packet 107 sent
+DEBUG (0): packet 108 sent
+DEBUG (1): packet 108 sent
+DEBUG (1): packet 108 received, gain <6, 6>
+DEBUG (0): packet 108 received, gain <6, 6>
+DEBUG (0): packet 109 sent
+DEBUG (1): packet 109 sent
+DEBUG (0): packet 110 sent
+DEBUG (1): packet 110 sent
+DEBUG (1): packet 110 received, gain <6, 6>
+DEBUG (0): packet 110 received, gain <6, 6>
+DEBUG (0): packet 111 sent
+DEBUG (1): packet 111 sent
+DEBUG (0): packet 112 sent
+DEBUG (1): packet 112 sent
+DEBUG (0): packet 112 received, gain <6, 6>
+DEBUG (1): packet 112 received, gain <6, 6>
+DEBUG (0): packet 113 sent
+DEBUG (1): packet 113 sent
+DEBUG (0): packet 114 sent
+DEBUG (1): packet 114 sent
+DEBUG (1): packet 114 received, gain <6, 6>
+DEBUG (0): packet 114 received, gain <6, 6>
+DEBUG (0): packet 115 sent
+DEBUG (1): packet 115 sent
+DEBUG (0): packet 115 received, gain <6, 6>
+DEBUG (1): packet 115 received, gain <6, 6>
+DEBUG (0): packet 116 sent
+DEBUG (1): packet 116 sent
+DEBUG (1): packet 116 received, gain <6, 6>
+DEBUG (0): packet 116 received, gain <6, 6>
+DEBUG (0): packet 117 sent
+DEBUG (1): packet 117 sent
+DEBUG (0): packet 117 received, gain <6, 6>
+DEBUG (1): packet 117 received, gain <6, 6>
+DEBUG (0): packet 118 sent
+DEBUG (1): packet 118 sent
+DEBUG (1): packet 118 received, gain <6, 6>
+DEBUG (0): packet 118 received, gain <6, 6>
+DEBUG (0): packet 119 sent
+DEBUG (1): packet 119 sent
+DEBUG (1): packet 119 received, gain <6, 6>
+DEBUG (0): packet 119 received, gain <6, 6>
+DEBUG (0): packet 120 sent
+DEBUG (1): packet 120 sent
+DEBUG (0): packet 120 received, gain <6, 6>
+DEBUG (1): packet 120 received, gain <6, 6>
+DEBUG (0): packet 121 sent
+DEBUG (1): packet 121 sent
+DEBUG (1): packet 121 received, gain <6, 6>
+DEBUG (0): packet 121 received, gain <6, 6>
+DEBUG (0): packet 122 sent
+DEBUG (1): packet 122 sent
+DEBUG (1): packet 122 received, gain <6, 6>
+DEBUG (0): packet 122 received, gain <6, 6>
+DEBUG (0): packet 123 sent
+DEBUG (1): packet 123 sent
+DEBUG (1): packet 123 received, gain <6, 6>
+DEBUG (0): packet 123 received, gain <6, 6>
+DEBUG (0): packet 124 sent
+DEBUG (1): packet 124 sent
+DEBUG (1): packet 124 received, gain <6, 6>
+DEBUG (0): packet 124 received, gain <6, 6>
+DEBUG (0): packet 125 sent
+DEBUG (1): packet 125 sent
+DEBUG (0): packet 125 received, gain <6, 6>
+DEBUG (1): packet 125 received, gain <6, 6>
+DEBUG (0): packet 126 sent
+DEBUG (1): packet 126 sent
+DEBUG (0): packet 126 received, gain <6, 6>
+DEBUG (1): packet 126 received, gain <6, 6>
+DEBUG (0): packet 127 sent
+DEBUG (1): packet 127 sent
+DEBUG (1): packet 127 received, gain <6, 6>
+DEBUG (0): packet 128 sent
+DEBUG (1): packet 128 sent
+DEBUG (0): packet 129 sent
+DEBUG (1): packet 129 sent
+DEBUG (0): packet 129 received, gain <6, 6>
+DEBUG (1): packet 129 received, gain <6, 6>
+DEBUG (0): packet 130 sent
+DEBUG (1): packet 130 sent
+DEBUG (1): packet 130 received, gain <6, 6>
+DEBUG (0): packet 130 received, gain <6, 6>
+DEBUG (0): packet 131 sent
+DEBUG (1): packet 131 sent
+DEBUG (0): packet 131 received, gain <6, 6>
+DEBUG (1): packet 131 received, gain <6, 6>
+DEBUG (0): packet 132 sent
+DEBUG (1): packet 132 sent
+DEBUG (0): packet 132 received, gain <6, 6>
+DEBUG (1): packet 132 received, gain <6, 6>
+DEBUG (0): packet 133 sent
+DEBUG (1): packet 133 sent
+DEBUG (0): packet 133 received, gain <6, 6>
+DEBUG (1): packet 133 received, gain <6, 6>
+DEBUG (0): packet 134 sent
+DEBUG (1): packet 134 sent
+DEBUG (0): packet 135 sent
+DEBUG (1): packet 135 sent
+DEBUG (0): packet 135 received, gain <6, 6>
+DEBUG (1): packet 135 received, gain <6, 6>
+DEBUG (0): packet 136 sent
+DEBUG (1): packet 136 sent
+DEBUG (0): packet 136 received, gain <6, 6>
+DEBUG (1): packet 136 received, gain <6, 6>
+DEBUG (0): packet 137 sent
+DEBUG (1): packet 137 sent
+DEBUG (0): packet 138 sent
+DEBUG (1): packet 138 sent
+DEBUG (0): packet 139 sent
+DEBUG (1): packet 139 sent
+DEBUG (1): packet 139 received, gain <6, 6>
+DEBUG (0): packet 139 received, gain <6, 6>
+DEBUG (0): packet 140 sent
+DEBUG (1): packet 140 sent
+DEBUG (1): packet 140 received, gain <6, 6>
+DEBUG (0): packet 140 received, gain <6, 6>
+DEBUG (0): packet 141 sent
+DEBUG (1): packet 141 sent
+DEBUG (1): packet 141 received, gain <6, 6>
+DEBUG (0): packet 141 received, gain <6, 6>
+DEBUG (0): packet 142 sent
+DEBUG (1): packet 142 sent
+DEBUG (0): packet 142 received, gain <6, 6>
+DEBUG (1): packet 142 received, gain <6, 6>
+DEBUG (0): packet 143 sent
+DEBUG (1): packet 143 sent
+DEBUG (1): packet 143 received, gain <6, 6>
+DEBUG (0): packet 144 sent
+DEBUG (1): packet 144 sent
+DEBUG (1): packet 144 received, gain <6, 6>
+DEBUG (0): packet 144 received, gain <6, 6>
+DEBUG (0): packet 145 sent
+DEBUG (1): packet 145 sent
+DEBUG (0): packet 145 received, gain <6, 6>
+DEBUG (1): packet 145 received, gain <6, 6>
+DEBUG (0): packet 146 sent
+DEBUG (1): packet 146 sent
+DEBUG (1): packet 146 received, gain <6, 6>
+DEBUG (0): packet 146 received, gain <6, 6>
+DEBUG (0): packet 147 sent
+DEBUG (1): packet 147 sent
+DEBUG (0): packet 147 received, gain <6, 6>
+DEBUG (1): packet 147 received, gain <6, 6>
+DEBUG (0): packet 148 sent
+DEBUG (1): packet 148 sent
+DEBUG (0): packet 148 received, gain <6, 6>
+DEBUG (1): packet 148 received, gain <6, 6>
+DEBUG (0): packet 149 sent
+DEBUG (1): packet 149 sent
+DEBUG (1): packet 149 received, gain <6, 6>
+DEBUG (0): packet 149 received, gain <6, 6>
+DEBUG (0): packet 150 sent
+DEBUG (1): packet 150 sent
+DEBUG (0): packet 151 sent
+DEBUG (1): packet 151 sent
+DEBUG (0): packet 151 received, gain <6, 6>
+DEBUG (1): packet 151 received, gain <6, 6>
+DEBUG (0): packet 152 sent
+DEBUG (1): packet 152 sent
+DEBUG (0): packet 152 received, gain <6, 6>
+DEBUG (1): packet 152 received, gain <6, 6>
+DEBUG (0): packet 153 sent
+DEBUG (1): packet 153 sent
+DEBUG (1): packet 153 received, gain <6, 6>
+DEBUG (0): packet 153 received, gain <6, 6>
+DEBUG (0): packet 154 sent
+DEBUG (1): packet 154 sent
+DEBUG (0): packet 154 received, gain <6, 6>
+DEBUG (1): packet 154 received, gain <6, 6>
+DEBUG (0): packet 155 sent
+DEBUG (1): packet 155 sent
+DEBUG (0): packet 155 received, gain <6, 6>
+DEBUG (1): packet 155 received, gain <6, 6>
+DEBUG (0): packet 156 sent
+DEBUG (1): packet 156 sent
+DEBUG (1): packet 156 received, gain <6, 6>
+DEBUG (0): packet 156 received, gain <6, 6>
+DEBUG (0): packet 157 sent
+DEBUG (1): packet 157 sent
+DEBUG (1): packet 157 received, gain <6, 6>
+DEBUG (0): packet 157 received, gain <6, 6>
+DEBUG (0): packet 158 sent
+DEBUG (1): packet 158 sent
+DEBUG (0): packet 159 sent
+DEBUG (1): packet 159 sent
+DEBUG (0): packet 159 received, gain <6, 6>
+DEBUG (0): packet 160 sent
+DEBUG (1): packet 160 sent
+DEBUG (1): packet 160 received, gain <6, 6>
+DEBUG (0): packet 160 received, gain <6, 6>
+DEBUG (0): packet 161 sent
+DEBUG (1): packet 161 sent
+DEBUG (1): packet 161 received, gain <6, 6>
+DEBUG (0): packet 161 received, gain <6, 6>
+DEBUG (0): packet 162 sent
+DEBUG (1): packet 162 sent
+DEBUG (0): packet 162 received, gain <6, 6>
+DEBUG (1): packet 162 received, gain <6, 6>
+DEBUG (0): packet 163 sent
+DEBUG (1): packet 163 sent
+DEBUG (0): packet 164 sent
+DEBUG (1): packet 164 sent
+DEBUG (0): packet 165 sent
+DEBUG (1): packet 165 sent
+DEBUG (1): packet 165 received, gain <6, 6>
+DEBUG (0): packet 166 sent
+DEBUG (1): packet 166 sent
+DEBUG (0): packet 166 received, gain <6, 6>
+DEBUG (1): packet 166 received, gain <6, 6>
+DEBUG (0): packet 167 sent
+DEBUG (1): packet 167 sent
+DEBUG (0): packet 167 received, gain <6, 6>
+DEBUG (1): packet 167 received, gain <6, 6>
+DEBUG (0): packet 168 sent
+DEBUG (1): packet 168 sent
+DEBUG (0): packet 168 received, gain <6, 6>
+DEBUG (1): packet 168 received, gain <6, 6>
+DEBUG (0): packet 169 sent
+DEBUG (1): packet 169 sent
+DEBUG (0): packet 169 received, gain <6, 6>
+DEBUG (1): packet 169 received, gain <6, 6>
+DEBUG (0): packet 170 sent
+DEBUG (1): packet 170 sent
+DEBUG (1): packet 170 received, gain <6, 6>
+DEBUG (0): packet 170 received, gain <6, 6>
+DEBUG (0): packet 171 sent
+DEBUG (1): packet 171 sent
+DEBUG (1): packet 171 received, gain <6, 6>
+DEBUG (0): packet 171 received, gain <6, 6>
+DEBUG (0): packet 172 sent
+DEBUG (1): packet 172 sent
+DEBUG (0): packet 172 received, gain <6, 6>
+DEBUG (1): packet 172 received, gain <6, 6>
+DEBUG (0): packet 173 sent
+DEBUG (1): packet 173 sent
+DEBUG (0): packet 173 received, gain <6, 6>
+DEBUG (1): packet 173 received, gain <6, 6>
+DEBUG (0): packet 174 sent
+DEBUG (1): packet 174 sent
+DEBUG (1): packet 174 received, gain <6, 6>
+DEBUG (0): packet 174 received, gain <6, 6>
+DEBUG (0): packet 175 sent
+DEBUG (1): packet 175 sent
+DEBUG (0): packet 175 received, gain <6, 6>
+DEBUG (1): packet 175 received, gain <6, 6>
+DEBUG (0): packet 176 sent
+DEBUG (1): packet 176 sent
+DEBUG (1): packet 176 received, gain <6, 6>
+DEBUG (0): packet 176 received, gain <6, 6>
+DEBUG (0): packet 177 sent
+DEBUG (1): packet 177 sent
+DEBUG (0): packet 178 sent
+DEBUG (1): packet 178 sent
+DEBUG (0): packet 178 received, gain <6, 6>
+DEBUG (1): packet 178 received, gain <6, 6>
+DEBUG (0): packet 179 sent
+DEBUG (1): packet 179 sent
+DEBUG (0): packet 180 sent
+DEBUG (1): packet 180 sent
+DEBUG (1): packet 180 received, gain <6, 6>
+DEBUG (0): packet 180 received, gain <6, 6>
+DEBUG (0): packet 181 sent
+DEBUG (1): packet 181 sent
+DEBUG (0): packet 181 received, gain <6, 6>
+DEBUG (1): packet 181 received, gain <6, 6>
+DEBUG (0): packet 182 sent
+DEBUG (1): packet 182 sent
+DEBUG (1): packet 182 received, gain <6, 6>
+DEBUG (0): packet 182 received, gain <6, 6>
+DEBUG (0): packet 183 sent
+DEBUG (1): packet 183 sent
+DEBUG (1): packet 183 received, gain <6, 6>
+DEBUG (0): packet 183 received, gain <6, 6>
+DEBUG (0): packet 184 sent
+DEBUG (1): packet 184 sent
+DEBUG (0): packet 184 received, gain <6, 6>
+DEBUG (1): packet 184 received, gain <6, 6>
+DEBUG (0): packet 185 sent
+DEBUG (1): packet 185 sent
+DEBUG (1): packet 185 received, gain <6, 6>
+DEBUG (0): packet 185 received, gain <6, 6>
+DEBUG (0): packet 186 sent
+DEBUG (1): packet 186 sent
+DEBUG (1): packet 186 received, gain <6, 6>
+DEBUG (0): packet 186 received, gain <6, 6>
+DEBUG (0): packet 187 sent
+DEBUG (1): packet 187 sent
+DEBUG (0): packet 187 received, gain <6, 6>
+DEBUG (1): packet 187 received, gain <6, 6>
+DEBUG (0): packet 188 sent
+DEBUG (1): packet 188 sent
+DEBUG (0): packet 189 sent
+DEBUG (1): packet 189 sent
+DEBUG (1): packet 189 received, gain <6, 6>
+DEBUG (0): packet 189 received, gain <6, 6>
+DEBUG (0): packet 190 sent
+DEBUG (1): packet 190 sent
+DEBUG (1): packet 190 received, gain <6, 6>
+DEBUG (0): packet 190 received, gain <6, 6>
+DEBUG (0): packet 191 sent
+DEBUG (1): packet 191 sent
+DEBUG (0): packet 191 received, gain <6, 6>
+DEBUG (1): packet 191 received, gain <6, 6>
+DEBUG (0): packet 192 sent
+DEBUG (1): packet 192 sent
+DEBUG (0): packet 192 received, gain <6, 6>
+DEBUG (1): packet 192 received, gain <6, 6>

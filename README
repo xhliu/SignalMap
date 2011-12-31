@@ -6,5 +6,5 @@ Description:
 -TestSMC:	an example demonstrating how to use SignalMap
 
 Known bugs/limitations:
-1) Transmission power level must be ligitimate, i.e., one of the levels specified by CC2420 datasheet.
+1) Transmission power level must be legitimate, i.e., one of the levels specified by CC2420 datasheet.
 2) May not work under extremely heavy traffic because concurrent tx interfere with RSSI sampling
